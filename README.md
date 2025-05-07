@@ -57,7 +57,7 @@ MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램�
 
 
 
-<h2>🎓 MiaHelper User Guide (English)<h2>
+<h2>🎓 MiaHelper User Guide (English)</h2>
 
 📌 Program Overview<br />
 MiaHelper is an online training automation support program designed for school staff and educators.<br />
