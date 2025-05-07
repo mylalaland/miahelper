@@ -2,6 +2,7 @@
 
 <h2>🎓 MiaHelper 사용자 설명서</h2>
 
+<a href="https://www.slowi.com/p/mia-helper.html" target="_blank">https://www.slowi.com/p/mia-helper.html</a>
 
 📌 프로그램 개요<br />
 MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램입니다.<br />
