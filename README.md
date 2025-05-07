@@ -105,7 +105,6 @@ Gyeonggi Southern/Northern Teacher Training Institutes, Jeju Tamna Education Ins
 
 
 📧 Contact & Info<br />
-
   Email: asdfasdfk@gmail.com<br />
   Version: MiaHelper v25.12<br />
   Last updated: April 30, 2025<br />
