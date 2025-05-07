@@ -91,10 +91,8 @@ MiaHelper provides macro functions for auto-clicking and automated navigation.<b
 
 
 📊 Operation Flow<br />
-
   Run the program → Connect to the site → Enter classroom and play video → Start automation → Automatically proceed to the next lecture<br />
   ⚠️ Note: You must play the lecture video first, then click the Start Automation button or press F2.<br /><br />
-  
   The program works even if you minimize the window with F3.<br />
 
 
