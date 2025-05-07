@@ -3,7 +3,7 @@
 <h2>🎓 MiaHelper 사용자 설명서</h2>
 
 
-📌 프로그램 개요
+📌 프로그램 개요<br />
 MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램입니다.<br />
 강의 영상 재생, 다음 차시 이동, 1.5배속 설정, 퀴즈 확인 등 반복적이고 번거로운 작업을 자동으로 처리하여, 다양한 강의를 보다 편리하게 수강할 수 있도록 돕습니다. 연수 수강에 소요되는 시간을 줄이고 효율적으로 여러 강의를 이수할 수 있습니다<br />
 목적과 취지에 맞게 사용해야 하며, 타 용도 사용에 대한 책임은 사용자에 있습니다. 교사, 교원을 위한 프로그램입니다.<br />
@@ -55,9 +55,9 @@ MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램�
 
 
 
--------------------------------------------------
 
-<h2>🎓 MiaHelper User Guide (English)<br /><br /><h2>
+
+<h2>🎓 MiaHelper User Guide (English)<h2>
 
 📌 Program Overview<br />
 MiaHelper is an online training automation support program designed for school staff and educators.<br />
