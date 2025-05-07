@@ -4,6 +4,11 @@
 
 <a href="https://www.slowi.com/p/mia-helper.html" target="_blank">https://www.slowi.com/p/mia-helper.html</a>
 
+<img
+<img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
+
+
+
 📌 프로그램 개요<br />
 MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램입니다.<br />
 강의 영상 재생, 다음 차시 이동, 1.5배속 설정, 퀴즈 확인 등 반복적이고 번거로운 작업을 자동으로 처리하여, 다양한 강의를 보다 편리하게 수강할 수 있도록 돕습니다. 연수 수강에 소요되는 시간을 줄이고 효율적으로 여러 강의를 이수할 수 있습니다<br />
