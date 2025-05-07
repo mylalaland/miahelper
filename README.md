@@ -4,10 +4,6 @@
 
 <a href="https://www.slowi.com/p/mia-helper.html" target="_blank">https://www.slowi.com/p/mia-helper.html</a>
 
-<img
-<img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
-
-
 
 📌 프로그램 개요<br />
 MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램입니다.<br />
@@ -59,7 +55,7 @@ MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램�
 🚀 새로운 기능 & 개선 사항 안내<br />
 업데이트 체크 추가<br /><br /><br /><br />
 
-
+<img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
 
 
 
@@ -117,3 +113,4 @@ Gyeonggi Southern/Northern Teacher Training Institutes, Jeju Tamna Education Ins
 🚀 New Features & Improvements<br />
   Update check added<br />
 
+<img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
