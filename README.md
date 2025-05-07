@@ -79,7 +79,7 @@ MiaHelper provides macro functions for auto-clicking and automated navigation.<b
   📋 Status Window	Real-time status and activity log display<br /><br />
 
 
-🚀 How to Use<br /><br />
+🚀 How to Use<br />
 
   Install Chrome<br />
   Run the program<br />
@@ -90,7 +90,7 @@ MiaHelper provides macro functions for auto-clicking and automated navigation.<b
   To stop automation, press F4 or click the Stop button<br />
 
 
-📊 Operation Flow<br /><br />
+📊 Operation Flow<br />
 
   Run the program → Connect to the site → Enter classroom and play video → Start automation → Automatically proceed to the next lecture<br />
   ⚠️ Note: You must play the lecture video first, then click the Start Automation button or press F2.<br /><br />
@@ -98,7 +98,7 @@ MiaHelper provides macro functions for auto-clicking and automated navigation.<b
   The program works even if you minimize the window with F3.<br />
 
 
-📍 Supported Sites<br /><br />
+📍 Supported Sites<br />
 
 National Teacher Training Institute<br />
 Seoul, Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan Metropolitan Teacher Training Institutes<br />
