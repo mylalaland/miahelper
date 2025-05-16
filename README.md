@@ -48,9 +48,6 @@ MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램�
 
 
 
-<img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
-
-
 
 <h2>🎓 MiaHelper User Guide (English)</h2>
 
@@ -99,5 +96,3 @@ Gyeonggi Southern/Northern Teacher Training Institutes, Jeju Tamna Education Ins
 
 
 
-
-<img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
