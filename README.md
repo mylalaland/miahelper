@@ -46,14 +46,7 @@ MiaHelper는 교직원를 위한 온라인 연수 자동화 지원 프로그램�
   경기도교육청남부연수원/경기도교육청북부연수원/제주탐라교육원<br /><br />
 
 
-📧 문의 및 정보<br />
-  이메일: asdfasdfk@gmail.com<br />
-  버전: MiaHelper v25.12<br />
-  최종 수정일: 2025년 4월 30일<br /><br />
 
-
-🚀 새로운 기능 & 개선 사항 안내<br />
-업데이트 체크 추가<br /><br /><br /><br />
 
 <img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
 
@@ -105,12 +98,6 @@ Gyeongbuk, Gyeongnam, Gangwon, Chungbuk, Chungnam, Jeonbuk, Jeonnam Teacher Trai
 Gyeonggi Southern/Northern Teacher Training Institutes, Jeju Tamna Education Institute<br />
 
 
-📧 Contact & Info<br />
-  Email: asdfasdfk@gmail.com<br />
-  Version: MiaHelper v25.12<br />
-  Last updated: April 30, 2025<br />
-<br />
-🚀 New Features & Improvements<br />
-  Update check added<br />
+
 
 <img src="https://github.com/mylalaland/miahelper/blob/main/screenshot%20miahelper.25.12.png" alt="screenshot" />
